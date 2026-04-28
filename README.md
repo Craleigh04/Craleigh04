@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Caden 👋
 
-<!--
-**Craleigh04/Craleigh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering student focused on building real-world machine learning, data analytics, and database solutions.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Machine Learning
+- Anime Rating Prediction (Regression, Feature Selection, Hyperparameter Tuning)
+- Employee Analytics (ML + PCA + Wage Gap Analysis)
+- Data Preprocessing & EDA (Model-ready dataset pipelines)
+
+### 🔹 Data Analytics
+- Tableau Sales Profit Analysis (Business insights & recommendations)
+- Statistical Analysis (Hypothesis testing, confidence intervals)
+
+### 🔹 Databases & SQL
+- SQL Server Database Operations (Triggers, procedures, optimization)
+- Database Engineering Portfolio (Full system design & admin)
+- Relational Database Design (ERD, normalization)
+
+## 🛠️ Skills
+
+**Languages:** Python, SQL, R, C++  
+**ML/DS:** scikit-learn, pandas, numpy, EDA, feature engineering  
+**Data Tools:** Tableau, SPSS Modeler  
+**Database:** SQL Server, T-SQL, database design, indexing  
+
+## 📫 Contact
+- Email: Cadenraleigh04@gmail.com
+- LinkedIn: linkedin.com/in/caden-raleigh-a5681a344
